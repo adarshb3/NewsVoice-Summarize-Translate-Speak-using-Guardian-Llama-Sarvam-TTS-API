@@ -5,7 +5,7 @@ A Streamlit app that fetches news, summarizes it, translates to Punjabi, and gen
 
 **NewsVoice** is designed to simplify the process of consuming news by converting live articles into audio in Punjabi. This app:
 - Fetches live news articles using **The Guardian API**.
-- Summarizes the content into concise paragraphs using **Llama 3.1 70B** endpoint(You can use this with your OpenAI API key).
+- Summarizes the content into concise paragraphs using **Llama 3.1 70B** endpoint(You can replace this with your OpenAI API key).
 - Translates the summarized content into Punjabi.
 - Generates high-quality audio in Punjabi using **Sarvam TTS API**.
 
