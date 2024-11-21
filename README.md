@@ -89,7 +89,7 @@ This tool is perfect for individuals who prefer listening to the latest global n
 - Generate and play audio for the translations.
 3. Listen to the generated Punjabi audio directly within the app.
 
-![<img width="634" alt="image" src="https://github.com/user-attachments/assets/3c351122-3376-4fa9-84ef-de9b162dbfe2">)
+<img width="634" alt="image" src="https://github.com/user-attachments/assets/3c351122-3376-4fa9-84ef-de9b162dbfe2">
 
 ### Known Issues and Limitations
 1. Character Limit:
