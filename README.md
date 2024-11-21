@@ -63,14 +63,14 @@ This tool is perfect for individuals who prefer listening to the latest global n
 ### Installation
 
 1. Clone the repository:
-   ```bash
+   ```
    git clone https://github.com/adarshb3/NewsVoice-Summarize-Translate-Speak-using-Guardian-Llama-Sarvam-TTS-API.git
    cd NewsVoice-Summarize-Translate-Speak-using-Guardian-Llama-Sarvam-TTS-API
 2. Install required dependencies:
-   ``bash
+   ``
    pip install -r requirements.txt
 3. Clone the Guardian library: The app uses the theguardian-api-python library, which is not available on PyPI. You must manually clone and install it:
-   ``bash
+   ``
    git clone https://github.com/prabhath6/theguardian-api-python.git
    cd theguardian-api-python
 4. Add your API keys to a .env file: Create a file named .env in the project directory and add the following:
