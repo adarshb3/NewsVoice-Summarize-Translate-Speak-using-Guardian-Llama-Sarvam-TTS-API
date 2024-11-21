@@ -99,7 +99,7 @@ This tool is perfect for individuals who prefer listening to the latest global n
 2. The app relies on external APIs, which may have rate limits or downtime.
   Translation Quality:
 
-3. The accuracy of the Punjabi translation depends on the Llama API's capabilities.
+3. The accuracy of the Punjabi translation depends on the LLM's capabilities.
 
 ### License
 This project is licensed under the MIT License. See `LICENSE` for more details.
