@@ -57,7 +57,7 @@ This tool is perfect for individuals who prefer listening to the latest global n
 - Python 3.7 or higher
 - API keys for:
   - **[The Guardian API](https://open-platform.theguardian.com/)**
-  - **[Llama API](https://lambdalabs.com/)**
+  - **[LLM API]**
   - **[Sarvam TTS API](https://sarvam.ai/)**
 
 ### Installation
