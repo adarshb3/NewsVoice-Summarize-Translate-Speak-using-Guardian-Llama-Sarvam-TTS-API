@@ -94,12 +94,12 @@ This tool is perfect for individuals who prefer listening to the latest global n
 ### Known Issues and Limitations
 1. Character Limit:
 - The Sarvam TTS API only accepts 500 characters per request. The app splits text automatically but very large inputs might cause minor delays.
-  Dependency on APIs:
 
-2. The app relies on external APIs, which may have rate limits or downtime.
-  Translation Quality:
+2.  Dependency on APIs:
+- The app relies on external APIs, which may have rate limits or downtime.
 
-3. The accuracy of the Punjabi translation depends on the LLM's capabilities.
+3.  Translation Quality:
+- The accuracy of the Punjabi translation depends on the LLM's capabilities.
 
 ### License
 This project is licensed under the MIT License. See `LICENSE` for more details.
