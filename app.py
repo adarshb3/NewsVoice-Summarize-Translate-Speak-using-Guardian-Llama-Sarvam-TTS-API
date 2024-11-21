@@ -37,7 +37,7 @@ def fetch_article_content(article_url, api_key):
     return None
 
 # Function to summarize and translate content using Llama API
-def summarize_and_translate(content, api_key, base_url="https://api.lambdalabs.com/v1"):
+def summarize_and_translate(content, api_key, base_url="your_api_endpoint"):
     client = OpenAI(api_key=api_key, base_url=base_url)
     
     summary_prompt = f"Summarize the following article content in 2-3 sentences:\n\n{content}\n\nSummary:"
