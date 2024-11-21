@@ -67,10 +67,10 @@ This tool is perfect for individuals who prefer listening to the latest global n
    git clone https://github.com/adarshb3/NewsVoice-Summarize-Translate-Speak-using-Guardian-Llama-Sarvam-TTS-API.git
    cd NewsVoice-Summarize-Translate-Speak-using-Guardian-Llama-Sarvam-TTS-API
 2. Install required dependencies:
-   ``
+   ```
    pip install -r requirements.txt
 3. Clone the Guardian library: The app uses the theguardian-api-python library, which is not available on PyPI. You must manually clone and install it:
-   ``
+   ```
    git clone https://github.com/prabhath6/theguardian-api-python.git
    cd theguardian-api-python
 4. Add your API keys to a .env file: Create a file named .env in the project directory and add the following:
@@ -79,7 +79,7 @@ This tool is perfect for individuals who prefer listening to the latest global n
    LLAMA-CLOUD_or_OPENAI_API_KEY=your_llama_api_key
    SARVAM_API_KEY=your_sarvam_api_key
 5. Run the Streamlit app:
-   ``
+   ```
    streamlit run app.py
 ### Usage
 1. Open the app in your browser at http://localhost:8501.
