@@ -1,9 +1,9 @@
-# NewsVoice-Summarize-Translate-Speak-using-Guardian-Llama-Sarvam-TTS-API
+# NewsVoiceAI-Summarize-Translate-Speak-using-Guardian-Llama-Sarvam-TTS-API
 A Streamlit app that fetches news, summarizes it, translates English to Punjabi, and generates Punjabi audio.
 
 ## Overview
 
-**NewsVoice** is designed to simplify the process of consuming news by converting live articles into audio in Punjabi. This app:
+**NewsVoiceAI** is designed to simplify the process of consuming news by converting live articles into audio in Punjabi. This app:
 - Fetches live news articles using **The Guardian API**.
 - Summarizes the content into concise paragraphs using **Llama 3.1 70B** endpoint(You can replace this with your OpenAI API key).
 - Translates the summarized content into Punjabi.
@@ -64,8 +64,8 @@ This tool is perfect for individuals who prefer listening to the latest global n
 
 1. Clone the repository:
    ```
-   git clone https://github.com/adarshb3/NewsVoice-Summarize-Translate-Speak-using-Guardian-Llama-Sarvam-TTS-API.git
-   cd NewsVoice-Summarize-Translate-Speak-using-Guardian-Llama-Sarvam-TTS-API
+   git clone https://github.com/adarshb3/NewsVoiceAI-Summarize-Translate-Speak-using-Guardian-Llama-Sarvam-TTS-API.git
+   cd NewsVoiceAI-Summarize-Translate-Speak-using-Guardian-Llama-Sarvam-TTS-API
 2. Install required dependencies:
    ```
    pip install -r requirements.txt
