@@ -10,7 +10,7 @@ load_dotenv()
 
 # Fetch API keys
 GUARDIAN_API_KEY = os.getenv("GUARDIAN_API_KEY")
-LLAMA_API_KEY = os.getenv("LLAMA_API_KEY")
+LLAMA_API_KEY = os.getenv("LLM_API_KEY")
 SARVAM_API_KEY = os.getenv("SARVAM_API_KEY")
 
 # Function to fetch news articles from The Guardian API
