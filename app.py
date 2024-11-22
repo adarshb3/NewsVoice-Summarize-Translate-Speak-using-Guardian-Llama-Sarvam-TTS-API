@@ -52,7 +52,7 @@ def summarize_and_translate(content, api_key, base_url="your_api_endpoint"):
     translation_response = client.completions.create(
         prompt=translation_prompt,
         temperature=0,
-        model="llama3.1-70b-instruct-berkeley",
+        model="your_model_name",
     )
     translation = translation_response.choices[0].text.strip()
     
