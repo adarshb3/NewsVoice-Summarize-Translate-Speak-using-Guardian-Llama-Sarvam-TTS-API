@@ -44,7 +44,7 @@ def summarize_and_translate(content, api_key, base_url="your_api_endpoint"):
     summary_response = client.completions.create(
         prompt=summary_prompt,
         temperature=0,
-        model="llama3.1-70b-instruct-berkeley",
+        model="your_model_name",
     )
     summary = summary_response.choices[0].text.strip()
     
